@@ -1,0 +1,18 @@
+ Klasa to szablon definiujący postać obiektu. Określa ona zarówno dane obiektu, jak i kod, który działa na tych danych.
+
+ Obiekt to instancja tworzona przez działający program na podstawie napisanej wcześniej klasy.
+
+ Zmienna to zbiór informacji danego obiektu.
+
+ Każda zmienna musi mieć określony typ danych np. int, albo String.
+
+ Jeżeli deklarację zmiennej poprzedzimy słowem final, to później wartość nie może zostać zmieniona.
+
+ W klasie mogą się znajdować: metody, zmienne, typy danych i konstruktor.
+
+Obiekty są wywoływane przez operator "new" i służą do tworzenia nowych obiektów.
+
+Jeśli w klasie zdefiniowano chociaż jeden konstruktor to kompilator nie wygeneruje dla nas konstruktora domyślnego.
+
+car1 i car2 to dwie zmienne wskazujące na ten sam obiekt
+
